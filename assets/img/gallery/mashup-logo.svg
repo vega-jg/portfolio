@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="JV_Logo.svg"
+   inkscape:export-filename="C:\Users\Admin\Desktop\Mathe-Sys\JV_Logo3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0179639"
+     inkscape:cx="403.25595"
+     inkscape:cy="643.93246"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient9057"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9055" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       sodipodi:type="star"
+       style="fill:#d9e7e0;fill-opacity:0.454546;stroke:#432e53;stroke-width:4.0252;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2764"
+       inkscape:flatsided="true"
+       sodipodi:sides="4"
+       sodipodi:cx="282.95297"
+       sodipodi:cy="432.76184"
+       sodipodi:r1="338.73984"
+       sodipodi:r2="239.52522"
+       sodipodi:arg1="0.366177"
+       sodipodi:arg2="1.1515752"
+       inkscape:rounded="0.11"
+       inkscape:randomized="0"
+       d="M 599.23537,554.04714 C 580.36781,603.24913 210.86967,767.9118 161.66768,749.04424 112.46568,730.17667 -52.196989,360.67854 -33.329425,311.47655 -14.461861,262.27455 355.03627,97.611879 404.23827,116.47944 c 49.20199,18.86757 213.86466,388.3657 194.9971,437.5677 z"
+       transform="matrix(0.23565409,0.08197089,-0.08197089,0.23565409,69.65091,14.277331)"
+       inkscape:transform-center-y="-2.5403298e-06"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Mathe-Sys\logo3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g14460"
+       style="stroke:#392b53;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Mathe-Sys\logo3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.90814895,0,0,1.401849,4.064272,-59.966896)">
+      <g
+         id="g13857"
+         style="stroke:#392b53;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#392b53;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.532676,162.90442 49.254951,-0.36757 32.714113,-39.69802 40.80074,-0.73515"
+           id="path75" />
+      </g>
+      <path
+         style="fill:none;stroke:#392b53;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 128.50174,122.83883 -12.44069,-0.0387"
+         id="path77" />
+    </g>
+    <g
+       id="g13861"
+       style="stroke:#524830;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.5578247,0,0,1.5811134,-80.943557,-81.521007)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Mathe-Sys\logo3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#524830;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 108.52354,146.99085 95.137953,122.81883"
+         id="path79" />
+      <path
+         style="fill:#4a39a3;fill-opacity:0.454546;stroke:#524830;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 108.52354,146.99085 13.38558,-24.17202"
+         id="path79-0" />
+    </g>
+  </g>
+</svg>
